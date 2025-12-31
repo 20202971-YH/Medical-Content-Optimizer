@@ -70,11 +70,12 @@ youtube_study/
 │   ├── main.py             # IT 기술(API) 기초 학습 코드
 │   ├── analyze.py          # 데이터 시각화 연습 코드
 │   └── medical_study.py    # 의료 데이터 비교 분석 초기 코드
+├── images/                 # 🖼️ README용 이미지 리소스 저장소
+│   ├── image_695c68.jpg    # 전문가 vs 일반인 비교 그래프
+│   ├── image_696fa6.jpg    # 키워드 랭킹 차트
+│   └── image_69dfcd.jpg    # AI 판독기 실행 화면
 ├── youtube_analyzer.py     # ⭐ [Main] 최종 완성된 AI 분석기
 ├── medical_final.csv       # 💾 분석용 샘플 데이터 (당뇨)
 ├── requirements.txt        # 📦 의존성 패키지 목록
 ├── .gitignore              # 🚫 Git 업로드 제외 설정
-├── image_695c68.jpg        # 🖼️ README용 이미지 (그래프)
-├── image_696fa6.jpg        # 🖼️ README용 이미지 (키워드)
-├── image_69dfcd.jpg        # 🖼️ README용 이미지 (실행화면)
 └── README.md               # 📄 프로젝트 명세서
